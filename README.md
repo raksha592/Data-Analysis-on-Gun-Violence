@@ -9,7 +9,7 @@ Dataset2: [Shootings data](https://github.com/BuzzFeedNews/2017-11-gun-sales-est
 ## Exploratory Data Analysis
 For my initial Analysis, I have used the information present in these two datasets to understand the pattern of events.
 Please refer to these links for the Exploratory Data Analysis:
-[Gun Sales over the years](https://github.com/raksha592/Data-Analysis-on-Gun-Violence/blob/master/Exploratory Data Analysis - 1.ipynb)
+[Gun Sales over the years](https://github.com/raksha592/Data-Analysis-on-Gun-Violence/blob/master/Exploratory%20Data%20Analysis%20-%201.ipynb)
 [Mass-shootings and other patterns](https://github.com/raksha592/Data-Analysis-on-Gun-Violence/blob/master/Exploratory Data Analysis-2.ipynb)
 ## Future Goals
 With this understanding, I would like to dig more into this data to extract more patterns. I would like to scrape more articles/repositories related to Gun Violence and analyze the pattern of behavior of the shooters. Is there a specific age-group where in such behavior is more pertinent? Are there vulnerable areas in the US where in such violent behaviors are exhibited? If so, why?
